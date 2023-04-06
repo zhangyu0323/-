@@ -14,7 +14,7 @@ int main(void)
 		}
 		
 		if(b*b>a)
-	{
+        	{
 		printf("%d ",a);
 		c++;
 		if(c%10==0)
@@ -22,5 +22,6 @@ int main(void)
 			printf("\n");
 		}
 	}
-	}
+	} 
+return 0;
 }
